@@ -18,7 +18,7 @@ To get started with PHPVulnBank, follow these steps:
 
 1. Clone the GitHub repository:
    ```
-   git clone https://github.com/krishnareddypadala/phpvulnbank.git
+   git clone https://github.com/harshavardandubba/phpvulnbank.git
    ```
 
 2. Set up a web server (e.g., Apache) and configure it to serve the PHPVulnBank directory.
@@ -32,7 +32,7 @@ To get started with PHPVulnBank, follow these steps:
 Go to command prompt and run below command.
 docker run -it -p 8090:80 -p 22:22  harshavardan580/phpvulnbank:24.004
 
-[![PHPVulnBank Demo](docker_phpvulnbank.gif)](https://github.com/krishnareddypadal/phpvulnbank/blob/master/Media/docker_phpvulnbank.gif)
+[![PHPVulnBank Demo](docker_phpvulnbank.gif)](https://github.com/harshavardandubba/phpvulnbank/blob/master/Media/docker_phpvulnbank.gif)
 
 
 ## Contributing
